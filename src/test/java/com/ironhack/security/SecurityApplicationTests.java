@@ -46,7 +46,9 @@ class SecurityApplicationTests {
 	void generateToken() {
 		String token = jwtService.generateToken("John", "[ROLE_ADMIN]");
 
+		System.out.println("======================================");
 		System.out.println("ESTO ES EL TOKEN: " + token);
+		System.out.println("======================================");
 	}
 
 

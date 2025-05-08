@@ -55,6 +55,22 @@ Realiza pruebas con Postman para verificar que la seguridad funciona correctamen
 
 ## Demo
 
+Estás son las tablas que tengo en la base de datos
+
+![img_1.png](img_1.png)
+
+Inicialmente tengo las tablas así, el usuario generado lo he hecho con un test, por otro lado, tanto en las tablas de roles como las tablas de 
+users_roles
+
+* Tabla roles
+![img_3.png](img_3.png)
+
+* Tabla users
+![img_4.png](img_4.png)
+
+* Tabla users_roles
+![img_5.png](img_5.png)
+
 1. Ruta publica a la que puede acceder cualquiera
 
 ![img.png](img.png)
