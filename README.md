@@ -62,15 +62,26 @@ Estás son las tablas que tengo en la base de datos
 Inicialmente tengo las tablas así, el usuario generado lo he hecho con un test, por otro lado, tanto en las tablas de roles como las tablas de 
 users_roles
 
-* Tabla roles
-![img_3.png](img_3.png)
+* Tabla roles <br>
+ ![img_3.png](img_3.png)
 
-* Tabla users
+* Tabla users <br>
 ![img_4.png](img_4.png)
 
-* Tabla users_roles
+* Tabla users_roles <br>
 ![img_5.png](img_5.png)
 
 1. Ruta publica a la que puede acceder cualquiera
 
 ![img.png](img.png)
+
+2. Logeo un usuario para generar el token
+
+![img_6.png](img_6.png)
+
+Cuyo token recibido es este: ```eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJWaWN0b3IiLCJyb2xlcyI6IltST0xFX0FETUlOXSIsImV4cCI6MTc0NjcwMDMyOCwiaWF0IjoxNzQ2Njk2NzI4fQ.CZ5eMixpJo7Bdm0xOtF9o-RVD-4hTQc5ELD0Sad6iAI```
+
+Este token, al descodificar, lo traduce así
+
+![img_7.png](img_7.png)
+
