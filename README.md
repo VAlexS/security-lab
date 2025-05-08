@@ -52,3 +52,9 @@ Realiza pruebas con Postman para verificar que la seguridad funciona correctamen
 - Haz commit y push de tus cambios a tu fork
 - Crea un Pull Request a este repositorio original para que podamos revisar tu trabajo.
 - Entrega el enlace a tu Pull Request en el portal.
+
+## Demo
+
+1. Ruta publica a la que puede acceder cualquiera
+
+![img.png](img.png)
